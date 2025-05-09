@@ -1,12 +1,13 @@
-# How It Works - React Project
+# SoftSell 
 
-This project showcases a "How It Works" section with animated steps, built using **React**, **Framer Motion** for animations, **Lucide Icons** for clean icons, and styled with **Tailwind CSS**.
+**SoftSell** is a modern React-based web application that features a "How It Works" section to guide users through the process of uploading a license, getting a valuation, and getting paid. It uses **Framer Motion** for smooth animations, **Lucide Icons** for professional visuals, and **Tailwind CSS** for responsive design.
 
 ## Features
-- **Framer Motion** for smooth animations on each step.
-- **Lucide-React** for modern, minimalistic icons.
-- Responsive grid layout using **Tailwind CSS**.
-- Simple, clean, and professional design for any web application.
+- Smooth step-by-step animations using **Framer Motion**
+- Clean and minimal icons from **Lucide React**
+- Fully responsive layout with **Tailwind CSS**
+- Professional UI/UX for business-facing applications
+
 
 ## Tech Stack
 - **React** (Frontend Framework)
